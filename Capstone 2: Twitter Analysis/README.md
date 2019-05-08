@@ -5,7 +5,7 @@ Twitter Classification – gather twitter data from two similar groups of users 
 
 ## Data
 
-Source of the Data and Method of Acquirement
+Source of the Data and Method of Acquirement\n
 https://twitter.com/\n
 https://followerwonk.com/\n
 https://github.com/Jefferson-Henrique/GetOldTweets-python/blob/master/LICENSE\n
